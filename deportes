@@ -14,31 +14,31 @@ http://atencotvdigitalpro.xyz:8080/Leandro/Leandro1234/505929
 
 http://elmonkey.us:25461/santana/1234/117091
 
-#EXTINF: -1,DIRECTV OPC2
+#EXTINF: -1,DIRECTV hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/123872
 
-#EXTINF: -1,DIRECTV 2 FHD
+#EXTINF: -1,DIRECTV 2 FHD hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/187724
 
-#EXTINF: -1,DIRECTV2 OPC2
+#EXTINF: -1,DIRECTV2 monkey
 
 http://elmonkey.us:25461/santana/1234/117090
 
-#EXTINF: -1,DIRECTV CO
+#EXTINF: -1,DIRECTV CO hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/43430
 
-#EXTINF: -1,DIRECTV 2 CO
+#EXTINF: -1,DIRECTV 2 CO hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/43431
 
-#EXTINF: -1,DIRECTV+ CO
+#EXTINF: -1,DIRECTV+ CO hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/123885
 
-#EXTINF: -1,DIRECTV 2 us
+#EXTINF: -1,DIRECTV 2 us monkey
 
 http://elmonkey.us:25461/santana/1234/117090
 
@@ -46,15 +46,15 @@ http://elmonkey.us:25461/santana/1234/117090
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/123871
 
-#EXTINF: -1,GOL PERU 
+#EXTINF: -1,GOL PERU monkey
 
 http://elmonkey.us:25461/santana/1234/117096
 
-#EXTINF: -1,MOVISTAR DEPORTES
+#EXTINF: -1,MOVISTAR Deportes hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34743
 
-#EXTINF: -1,BeiN SPORTS Ñ
+#EXTINF: -1,BeiN SPORTS Ñ monkey
 
 http://elmonkey.us:25461/santana/1234/28
 
@@ -62,39 +62,39 @@ http://elmonkey.us:25461/santana/1234/28
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/43662
 
-#EXTINF: -1,BEIN ING OPC2
+#EXTINF: -1,BEIN ING OPC2 monkey
 
 http://elmonkey.us:25461/santana/1234/354
 
-#EXTINF: -1,BEIN EXTRA Ñ
+#EXTINF: -1,BEIN EXTRA Ñ monkey
 
 http://elmonkey.us:25461/santana/1234/117059
 
-#EXTINF: -1,BEIN EXTRA ING
+#EXTINF: -1,BEIN EXTRA ING monkey
 
 http://elmonkey.us:25461/santana/1234/117055
 
-#EXTINF: -1,BEIN 4 ARABE
+#EXTINF: -1,BEIN 4 Árabe monkey
 
 http://elmonkey.us:25461/santana/1234/117064
 
-#EXTINF: -1,BEIN 6 ARABE
+#EXTINF: -1,BEIN 6 Árabe monkey
 
 http://elmonkey.us:25461/santana/1234/117057
 
-#EXTINF: -1,BEIN 5 USA
+#EXTINF: -1,BEIN 5 USA monkey
 
 http://elmonkey.us:25461/santana/1234/117063
 
-#EXTINF: -1,ESPN
+#EXTINF: -1,ESPN hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/123652
 
-#EXTINF: -1, ESPN OPC 2
+#EXTINF: -1, ESPN monkey
 
 http://elmonkey.us:25461/santana/1234/91059
 
-#EXTINF: -1,ESPN DEPORTES
+#EXTINF: -1,ESPN Deportes monkey
 
 http://elmonkey.us:25461/santana/1234/91046
 
@@ -102,59 +102,59 @@ http://elmonkey.us:25461/santana/1234/91046
 
 http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/40261
 
-#EXTINF: -1,ESPN 3 SA
+#EXTINF: -1,ESPN 3 SA monkey
 
 http://elmonkey.us:25461/santana/1234/91069
 
-#EXTINF: -1,ESPN 4 SA
+#EXTINF: -1,ESPN 4 SA 190.27.253.211:8000
 
 http://190.27.253.211:8000/play/a08e/index.m3u8
 
-#EXTINF: -1,ESPN 4 OPC2
+#EXTINF: -1,ESPN 4 OPC2 monkey
 
 http://elmonkey.us:25461/santana/1234/91065
 
-#EXTINF: -1,ESPN MX
+#EXTINF: -1,ESPN MX monkey
 
 http://elmonkey.us:25461/santana/1234/91048
 
-#EXTINF: -1,ESPN MX OPC2
+#EXTINF: -1,ESPN MX 45.228.232.204:16000
 
 http://45.228.232.204:16000/play/a07r/index.m3u8
 
-#EXTINF: -1,ESPN 2 MX
+#EXTINF: -1,ESPN 2 MX monkey
 
 http://elmonkey.us:25461/santana/1234/91049
 
-#EXTINF: -1,ESPN 2 MX OPC2
+#EXTINF: -1,ESPN 2 MX bgtv
 
 http://bgtv.site/403/tv30.php?c=MTYtNzA4MQ==&token=pioioiylklkhkuacv&f=.m3u8
 
-#EXTINF: -1,ESPN 3 MX
+#EXTINF: -1,ESPN 3 MX monkey
 
 http://elmonkey.us:25461/santana/1234/91050
 
-#EXTINF: -1,ESPN EXTRA MX
+#EXTINF: -1,ESPN EXTRA MX monkey
 
 http://elmonkey.us:25461/santana/1234/91058
 
-#EXTINF: -1,ESPN BRA
+#EXTINF: -1,ESPN BRA monkey
 
 http://elmonkey.us:25461/santana/1234/91070
 
-#EXTINF: -1,ESPN 3 BRA
+#EXTINF: -1,ESPN 3 BRA monkey
 
 http://elmonkey.us:25461/santana/1234/91071
 
-#EXTINF: -1,ESPN USA
+#EXTINF: -1,ESPN USA monkey
 
 http://elmonkey.us:25461/santana/1234/91219
 
-#EXTINF: -1,ESPN NEWS USA
+#EXTINF: -1,ESPN NEWS USA monkey
 
 http://elmonkey.us:25461/santana/1234/91221
 
-#EXTINF: -1,BT SPORT UK
+#EXTINF: -1,BT SPORT UK monkey
 
 http://elmonkey.us:25461/santana/1234/91480
 
@@ -166,7 +166,7 @@ http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/120424
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34709
 
-#EXTINF: -1,EUROSPORT 1 OPC2 ipmi
+#EXTINF: -1,EUROSPORT 1 ipmi
 
 http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136087.ts
 
@@ -174,7 +174,7 @@ http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136087.ts
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34710
 
-#EXTINF: -1,TYC SPORT
+#EXTINF: -1,TYC SPORT hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34686
 
@@ -194,35 +194,35 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/39089
 
 http://live.budtvlight.com:25461/Luna001/18dabf00/35478
 
-#EXTINF: -1,FOX SPORT SA
+#EXTINF: -1,FOX SPORT SA hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34640
 
-#EXTINF: -1,FOX SPORT 1 USA
+#EXTINF: -1,FOX SPORT 1 USA hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/312668
 
-#EXTINF: -1,FOX SPORT 1 USA OP2
+#EXTINF: -1,FOX SPORT 1 USA OP2 bgtv
 
 http://bgtv.site/403/tv30.php?c=OTctNzA4Mg==&token=pioioiylklkhkuacv&f=.m3u8
 
-#EXTINF: -1,FOX SPORT 2 SA
+#EXTINF: -1,FOX SPORT 2 SA ipmi
 
 http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136104.ts
 
-#EXTINF: -1,FOX SPORT 2 OPC2
+#EXTINF: -1,FOX SPORT 2 190.27.253.211:8000
 
 http://190.27.253.211:8000/play/a07q/index.m3u8
 
-#EXTINF: -1,FOX SPORT 3 SA
+#EXTINF: -1,FOX SPORT 3 SA ipmi
 
 http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136109.ts
 
-#EXTINF: -1,FOX SPORT 2 USA
+#EXTINF: -1,FOX SPORT 2 USA hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/312667
 
-#EXTINF: -1,TNT SPORT ARG
+#EXTINF: -1,TNT SPORT Arg hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34684
 
@@ -246,15 +246,15 @@ http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/69778
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/181851
 
-#EXTINF: -1,TSN 2
+#EXTINF: -1,TSN 2 hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/181852
 
-#EXTINF: -1,TSN 3
+#EXTINF: -1,TSN 3 hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/181853
 
-#EXTINF: -1,TSN 4
+#EXTINF: -1,TSN 4 hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/181854
 
@@ -262,7 +262,7 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/181854
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/304510
 
-#EXTINF: -1,VTV
+#EXTINF: -1,VTV p.ultra
 
 http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37926
 
@@ -270,7 +270,7 @@ http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37926
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34714
 
-#EXTINF: -1,FIGHT NETWORK 
+#EXTINF: -1,FIGHT NETWORK bgtv
 
 http://bgtv.site/403/tv30.php?c=NTMtNzA4Mg==&token=pioioiylklkhkuacv&f=.m3u8
 
@@ -278,23 +278,23 @@ http://bgtv.site/403/tv30.php?c=NTMtNzA4Mg==&token=pioioiylklkhkuacv&f=.m3u8
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34712
 
-#EXTINF: -1,NBA TV OPC2
+#EXTINF: -1,NBA TV bgtv
 
 http://bgtv.site/403/tv30.php?c=MTAzLTcwODI=&token=pioioiylklkhkuacv&f=.m3u8
 
-#EXTINF: -1,ESPN premium 
+#EXTINF: -1,ESPN premium hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34648
 
-#EXTINF: -1,Directv 2
+#EXTINF: -1,Directv 2 p.ultra
 
 http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37947
 
-#EXTINF: -1,SKY SPORT F1
+#EXTINF: -1,SKY SPORT F1 hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34733
 
-#EXTINF: -1,SKY MOTOGP
+#EXTINF: -1,SKY MOTOGP hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34730
 
@@ -302,75 +302,75 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34730
 
 http://elmonkey.us:25461/santana/1234/91446
 
-#EXTINF: -1,SPORT TV 2
+#EXTINF: -1,SPORT TV 2 monkey
 
 http://elmonkey.us:25461/santana/1234/91447
 
-#EXTINF: -1,SPORT net
+#EXTINF: -1,SPORT net p.ultra
 
 http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/50343
 
-#EXTINF: -1,Eleven 1
+#EXTINF: -1,Eleven 1 p.ultra 
 
 http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37959
 
-#EXTINF: -1,Eleven 2
+#EXTINF: -1,Eleven 2 p.ultra 
 
 http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37960
 
-#EXTINF: -1,Bein sport 5
+#EXTINF: -1,Bein sport 5 hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34722
 
-#EXTINF: -1,FOX sport 3
+#EXTINF: -1,FOX sport 3 hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34646
 
-#EXTINF: -1,FOX sport 2 us
+#EXTINF: -1,FOX sport 2 us hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34650
 
-#EXTINF: -1,FOX SPORT 2 US OPC2
+#EXTINF: -1,FOX SPORT 2 US bgtv
 
 http://bgtv.site/403/tv30.php?c=OTgtNzA4Mg==&token=pioioiylklkhkuacv&f=.m3u8
 
-#EXTINF: -1,ECDF EC
+#EXTINF: -1,ECDF EC hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/304386
 
-#EXTINF: -1, TENNIS CHANEL
+#EXTINF: -1, TENNIS CHANEL bgtv
 
 http://bgtv.site/403/tv30.php?c=MTE5LTcwODI=&token=pioioiylklkhkuacv&f=.m3u8
 
-#EXTINF: -1,SPORT tv Brasil
+#EXTINF: -1,SPORT tv Brasil hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/304180
 
-#EXTINF: -1,GOLF CHANNEL
+#EXTINF: -1,GOLF Channel hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34696
 
-#EXTINF: -1,BALLY SPORT SAN DIEGO
+#EXTINF: -1,BALLY SPORT SAN Diego bgtv
 
 http://bgtv.site/403/tv30.php?c=Mzc2LTcwODI=&token=pioioiylklkhkuacv&f=.m3u8
 
-#EXTINF: -1,GOL TV ECU
+#EXTINF: -1,GOL TV ECU hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34693
 
-#EXTIN: -1,NFL NETWORK
+#EXTIN: -1,NFL NETWORK hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34705
 
-#EXTINF: -1,CBS SPORT NETWORK 
+#EXTINF: -1,CBS SPORT NETWORK bgtv
 
 http://bgtv.site/403/tv30.php?c=NDctNzA4Mg==&token=pioioiylklkhkuacv&f=.m3u8
 
-#EXTINF: -1,CLARO SPORT
+#EXTINF: -1,CLARO SPORT ipmi
 
 http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/135965.ts
 
-#EXTINF: -1,CABLE ONDA SPORT
+#EXTINF: -1,CABLE ONDA SPORT ipmi
 
 http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136611.ts
 
@@ -378,7 +378,7 @@ http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136611.ts
 
 http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/50341
 
-#EXTINF: -1,espn
+#EXTINF: -1,espn hplay
 
 http://flash.shortgod.com/cocoli/tv3.php?id=a07i
 
@@ -386,22 +386,22 @@ http://flash.shortgod.com/cocoli/tv3.php?id=a07i
 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF: -1,ABU DABHI SPORTS 1
+#EXTINF: -1,ABU DABHI SPORTS 1 cdn
 
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
-#EXTINF: -1,ABU DABHI SPORTS 2
+#EXTINF: -1,ABU DABHI SPORTS 2 cdn
 
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
-#EXTINF: -1,ALFA SPORT
+#EXTINF: -1,ALFA SPORT aftermind
 
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
 
-#EXTINF: -1,CANAL MOTOR
+#EXTINF: -1,CANAL MOTOR digicom
 
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 
-#EXTINF: -1,MOTOR VISION TV
+#EXTINF: -1,MOTOR VISION TV pluto
 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel
