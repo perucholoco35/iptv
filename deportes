@@ -8,7 +8,7 @@ http://elmonkey.us:25461/santana/1234/686
 
 #EXTINF:-1 ,LIGA1 MAX OP2
 
-http://atencotvdigitalpro.xyz:8080/Leandro/Leandro1234/505929
+http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136502.ts
 
 #EXTINF:-1 ,Directv monkey
 
@@ -58,11 +58,15 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34743
 
 http://elmonkey.us:25461/santana/1234/28
 
+#EXTINF: -1,BeiN SPORT Ñ hplay
+
+http://hplay.xyz:80/rtrboofc/pi519pvU9R/312725
+
 #EXTINF: -1,BEIN ING hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/43662
 
-#EXTINF: -1,BEIN ING OPC2 monkey
+#EXTINF: -1,BEIN ING monkey
 
 http://elmonkey.us:25461/santana/1234/354
 
@@ -110,9 +114,13 @@ http://elmonkey.us:25461/santana/1234/91069
 
 http://190.27.253.211:8000/play/a08e/index.m3u8
 
-#EXTINF: -1,ESPN 4 OPC2 monkey
+#EXTINF: -1,ESPN 4 monkey
 
 http://elmonkey.us:25461/santana/1234/91065
+
+#EXTINF: -1,ESPN EXTRA hplay
+
+http://hplay.xyz:80/rtrboofc/pi519pvU9R/312844
 
 #EXTINF: -1,ESPN MX monkey
 
