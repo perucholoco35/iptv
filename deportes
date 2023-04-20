@@ -2,21 +2,37 @@
 
 #EXTM3U
 
-#EXTINF:-1 ,LIGA1 MAX
+#EXTINF: -1 ,LIGA1 MAX
 
 http://elmonkey.us:25461/santana/1234/686
 
-#EXTINF:-1 ,LIGA1 MAX OP2
+#EXTINF: -1 ,LIGA1 MAX OP2 ipmi
 
 http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136502.ts
 
-#EXTINF:-1 ,Directv monkey
+#EXTINF: -1,LIGA1 MAX maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/330951.ts
+
+#EXTINF: -1,ESPN Perú maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/302520.ts
+
+#EXTINF: -1,DIRECTV PERU maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/300839.ts
+
+#EXTINF: -1 ,Directv monkey
 
 http://elmonkey.us:25461/santana/1234/117091
 
 #EXTINF: -1,DIRECTV hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/123872
+
+#EXTINF: -1,DIRECTV MAXPRO
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31164.ts
 
 #EXTINF: -1,DIRECTV 2 FHD hplay
 
@@ -25,6 +41,10 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/187724
 #EXTINF: -1,DIRECTV2 monkey
 
 http://elmonkey.us:25461/santana/1234/117090
+
+#EXTINF: -1,DIRECTV2 maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31164.ts
 
 #EXTINF: -1,DIRECTV CO hplay
 
@@ -54,6 +74,10 @@ http://elmonkey.us:25461/santana/1234/117096
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34743
 
+#EXTINF: -1,MOVISTAR DEPORTES maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/289.ts
+
 #EXTINF: -1,BeiN SPORTS Ñ monkey
 
 http://elmonkey.us:25461/santana/1234/28
@@ -61,6 +85,10 @@ http://elmonkey.us:25461/santana/1234/28
 #EXTINF: -1,BeiN SPORT Ñ hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/312725
+
+#EXTINF: -1,Bein SPORT Ñ maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/232231.ts
 
 #EXTINF: -1,BEIN ING hplay
 
@@ -98,17 +126,25 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/123652
 
 http://elmonkey.us:25461/santana/1234/91059
 
+#EXTINF: -1,ESPN maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/115770.ts
+
 #EXTINF: -1,ESPN Deportes monkey
 
 http://elmonkey.us:25461/santana/1234/91046
 
-#EXTINF: -1,ESPN 2
+#EXTINF: -1,ESPN 2 maxpro
 
-http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/40261
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31814.ts
 
 #EXTINF: -1,ESPN 3 SA monkey
 
 http://elmonkey.us:25461/santana/1234/91069
+
+#EXTINF: -1,ESPN 3 SA maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31815.ts
 
 #EXTINF: -1,ESPN 4 SA 190.27.253.211:8000
 
@@ -117,6 +153,10 @@ http://190.27.253.211:8000/play/a08e/index.m3u8
 #EXTINF: -1,ESPN 4 monkey
 
 http://elmonkey.us:25461/santana/1234/91065
+
+#EXTINF: -1,ESPN 4 maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/305906.ts
 
 #EXTINF: -1,ESPN EXTRA hplay
 
@@ -237,6 +277,10 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34684
 #EXTINF: -1,TNT SPORT CH ipmi
 
 http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136519.ts
+
+#EXTINF: -1,TNT CHILE maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26933.ts
 
 #EXTINF: -1,DAZN 1 hplay
 
