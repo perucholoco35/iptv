@@ -218,9 +218,25 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34709
 
 http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136087.ts
 
+#EXTINF: -1,EUROSPORT 1 maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/3063.ts
+
+#EXTINF: -1,EUROSPORT 1ESP maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/164.ts
+
 #EXTINF: -1,EUROSPORT 2 hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34710
+
+#EXTINF: -1,EUROSPORT 2 ESP maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/164.ts
+
+#EXTINF: -1,EUROSPORT 2 ING maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/223.ts
 
 #EXTINF: -1,TYC SPORT hplay
 
