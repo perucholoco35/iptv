@@ -206,6 +206,10 @@ http://elmonkey.us:25461/santana/1234/91219
 
 http://elmonkey.us:25461/santana/1234/91221
 
+#EXTINF: -1,LIGA DE CAMPEONES MOVISTAR maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/232304.ts
+
 #EXTINF: -1,BT SPORT UK monkey
 
 http://elmonkey.us:25461/santana/1234/91480
@@ -450,9 +454,13 @@ http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/2030.ts
 
 http://bgtv.site/403/tv30.php?c=MTE5LTcwODI=&token=pioioiylklkhkuacv&f=.m3u8
 
+#EXTINF: -1,TVG USA maxpro 
 
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/127125.ts
 
+#EXTINF: -1,YES NETWORK maxpro
 
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/115815.ts
 
 #EXTINF: -1,GOLF Channel hplay
 
@@ -482,8 +490,9 @@ http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/135965.ts
 
 http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136611.ts
 
+#EXTINF: -1,TVC DEPORTES maxpro
 
-
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/63586.ts
 
 
 #EXTINF: -1,espn hplay
