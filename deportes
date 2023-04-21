@@ -78,6 +78,10 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34743
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/289.ts
 
+#EXTINF: -1,MOVISTAR DEPORTES maxpro opc 2
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/228733.ts
+
 #EXTINF: -1,BeiN SPORTS Ñ monkey
 
 http://elmonkey.us:25461/santana/1234/28
@@ -205,6 +209,22 @@ http://elmonkey.us:25461/santana/1234/91221
 #EXTINF: -1,BT SPORT UK monkey
 
 http://elmonkey.us:25461/santana/1234/91480
+
+#EXTINF: -1,BTS SPORT 1 maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/283023.ts
+
+#EXTINF: -1,BTS SPORT 2 maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/283024.ts
+
+#EXTINF: -1,BTS SPORT 3 maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/283025.ts
+
+#EXTINF: -1,BTS SPORT 4 maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/283026.ts
 
 #EXTINF: -1,STAR+ EV1
 
