@@ -390,13 +390,29 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34730
 
 http://elmonkey.us:25461/santana/1234/91446
 
+#EXTINF: -1,SPORT TV 1 hplay
+
+http://hplay.xyz:80/rtrboofc/pi519pvU9R/304180
+
 #EXTINF: -1,SPORT TV 2 monkey
 
 http://elmonkey.us:25461/santana/1234/91447
 
-#EXTINF: -1,SPORT net p.ultra
+#EXTINF: -1,SPORT TV 1 maxpro
 
-http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/50343
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24160.ts
+
+#EXTINF: -1,PREMIERE 1 maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24163.ts
+
+#EXTINF: -1,PREMIERE 2 maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24164.ts
+
+#EXTINF: -1,PREMIERE 3 maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24165.ts
 
 #EXTINF: -1,Eleven 1 p.ultra 
 
@@ -426,13 +442,17 @@ http://bgtv.site/403/tv30.php?c=OTgtNzA4Mg==&token=pioioiylklkhkuacv&f=.m3u8
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/304386
 
+#EXTINF: -1,WIN SPORT maxpro
+
+http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/2030.ts
+
 #EXTINF: -1, TENNIS CHANEL bgtv
 
 http://bgtv.site/403/tv30.php?c=MTE5LTcwODI=&token=pioioiylklkhkuacv&f=.m3u8
 
-#EXTINF: -1,SPORT tv Brasil hplay
 
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/304180
+
+
 
 #EXTINF: -1,GOLF Channel hplay
 
@@ -462,9 +482,9 @@ http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/135965.ts
 
 http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136611.ts
 
-#EXTINF: -1,hh
 
-http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/50341
+
+
 
 #EXTINF: -1,espn hplay
 
@@ -490,9 +510,9 @@ https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3
 
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 
-#EXTINF: -1,ANGELES
 
-https://www.youtube.com/live/GyXr3-BwJ2w?feature=share
+
+
 
 #EXTINF: -1,MOTOR VISION TV pluto
 
