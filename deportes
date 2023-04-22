@@ -38,7 +38,7 @@ http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31164.ts
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/187724
 
-#EXTINF: -1,DIRECTV2 monkey
+#EXTINF: -1 tvg-logo="https://postimg.cc/WdpNrPC2",DIRECTV2 monkey
 
 http://elmonkey.us:25461/santana/1234/117090
 
@@ -50,7 +50,7 @@ http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31164.ts
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/43430
 
-#EXTINF: -1,DIRECTV 2 CO hplay
+#EXTINF: -1 tvg-logo="https://postimg.cc/WdpNrPC2",DIRECTV 2 CO hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/43431
 
