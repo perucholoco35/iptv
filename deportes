@@ -110,11 +110,11 @@ http://elmonkey.us:25461/santana/1234/117059
 
 http://elmonkey.us:25461/santana/1234/117055
 
-#EXTINF: -1,BEIN 4 Árabe monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/d335MWrn/images-5.png", BEIN 4 Árabe monkey
 
 http://elmonkey.us:25461/santana/1234/117064
 
-#EXTINF: -1,BEIN 6 Árabe monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCz0jpqD/images-5-2.png", BEIN 6 Árabe monkey
 
 http://elmonkey.us:25461/santana/1234/117057
 
