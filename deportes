@@ -54,7 +54,7 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/43430
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/43431
 
-#EXTINF: -1,DIRECTV+ CO hplay
+#EXTINF: -1 tvg-logo"https://i.postimg.cc/HkGKQ5B7/directv.png", DIRECTV+ CO hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/123885
 
@@ -62,7 +62,7 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/123885
 
 http://elmonkey.us:25461/santana/1234/117090
 
-#EXTINF: -1,DIRECTV + hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/HkGKQ5B7/directv.png", DIRECTV + hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/123871
 
