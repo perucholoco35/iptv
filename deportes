@@ -10,7 +10,7 @@ http://elmonkey.us:25461/santana/1234/686
 
 http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136502.ts
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7QrKSYlMGvYE5OPTK-5hS0rjnGRzoVN2CWg&usqp=CAU",LIGA1 MAX maxpro
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7QrKSYlMGvYE5OPTK-5hS0rjnGRzoVN2CWg&usqp=CAU", LIGA1 MAX maxpro
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/330951.ts
 
@@ -18,19 +18,19 @@ http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/330951.ts
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/302520.ts
 
-#EXTINF: -1,DIRECTV PERU maxpro
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XBWb2eJhBdGrlblSE2KvBX-oJkSbPpACcQ&usqp=CAU", DIRECTV PERU maxpro
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/300839.ts
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/wjBVvWGp/celeste-0250-ngll.jpg", Directv monkey
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XBWb2eJhBdGrlblSE2KvBX-oJkSbPpACcQ&usqp=CAU", Directv monkey
 
 http://elmonkey.us:25461/santana/1234/117091
 
-#EXTINF: -1,DIRECTV hplay
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XBWb2eJhBdGrlblSE2KvBX-oJkSbPpACcQ&usqp=CAU", DIRECTV hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/123872
 
-#EXTINF: -1,DIRECTV MAXPRO
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XBWb2eJhBdGrlblSE2KvBX-oJkSbPpACcQ&usqp=CAU", DIRECTV MAXPRO
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31164.ts
 
