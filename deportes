@@ -358,7 +358,7 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/304510
 
 http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37926
 
-#EXTINF: -1,UFC usa hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/prP3yjVN/images-3.png", UFC usa hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34714
 
@@ -366,7 +366,7 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34714
 
 http://bgtv.site/403/tv30.php?c=NTMtNzA4Mg==&token=pioioiylklkhkuacv&f=.m3u8
 
-#EXTINF: -1,NBA TV hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/zvjvRTnT/NBA-TV-svg.webp", NBA TV hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34712
 
