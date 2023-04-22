@@ -262,11 +262,11 @@ http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/27250.ts
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/223.ts
 
-#EXTINF: -1,TYC SPORT hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/CM8SYpW8/images-10.jpg", TYC SPORT hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34686
 
-#EXTINF: -1,TYC SPORT OP2
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/CM8SYpW8/images-10.jpg", TYC SPORT OP2
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34686
 
