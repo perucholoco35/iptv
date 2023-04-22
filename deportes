@@ -322,11 +322,11 @@ http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136519.ts
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26933.ts
 
-#EXTINF: -1,DAZN 1 hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DfpGLn8N/images-3.jpg", DAZN 1 hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/303780
 
-#EXTINF: -1,DAZN 2 hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DfpGLn8N/images-3.jpg", DAZN 2 hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/303782
 
@@ -334,19 +334,19 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/303782
 
 http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/69778 
 
-#EXTINF: -1,TSN hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/181851
 
-#EXTINF: -1,TSN 2 hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN 2 hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/181852
 
-#EXTINF: -1,TSN 3 hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN 3 hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/181853
 
-#EXTINF: -1,TSN 4 hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN 4 hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/181854
 
