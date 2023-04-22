@@ -194,7 +194,7 @@ http://elmonkey.us:25461/santana/1234/91058
 
 http://elmonkey.us:25461/santana/1234/91070
 
-#EXTINF: -1,ESPN 3 BRA monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/pdvpdzLB/espn-brasil-3.png", ESPN 3 BRA monkey
 
 http://elmonkey.us:25461/santana/1234/91071
 
