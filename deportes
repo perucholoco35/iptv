@@ -191,7 +191,7 @@ http://bgtv.site/403/tv30.php?c=MTYtNzA4MQ==&token=pioioiylklkhkuacv&f=.m3u8
 
 http://elmonkey.us:25461/santana/1234/91050
 
-#EXTINF: -1,ESPN EXTRA MX monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/s2g9w7Ns/images-1-1.png", ESPN EXTRA MX monkey
 
 http://elmonkey.us:25461/santana/1234/91058
 
