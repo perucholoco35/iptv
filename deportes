@@ -142,7 +142,7 @@ http://elmonkey.us:25461/santana/1234/91046
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31814.ts
 
-#EXTINF: -1,ESPN 3 SA monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3xsdD8sr/images-1.jpg", ESPN 3 SA monkey
 
 http://elmonkey.us:25461/santana/1234/91069
 
@@ -162,7 +162,7 @@ http://elmonkey.us:25461/santana/1234/91065
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/305906.ts
 
-#EXTINF: -1,ESPN EXTRA hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/W1ZD5cnW/images-1.png", ESPN EXTRA hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/312844
 
