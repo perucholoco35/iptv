@@ -171,11 +171,11 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/312844
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34648
 
 
-#EXTINF: -1,ESPN MX monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8khvN8TY/images-6.png", ESPN MX monkey
 
 http://elmonkey.us:25461/santana/1234/91048
 
-#EXTINF: -1,ESPN MX 45.228.232.204:16000
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8khvN8TY/images-6.png", ESPN MX 45.228.232.204:16000
 
 http://45.228.232.204:16000/play/a07r/index.m3u8
 
