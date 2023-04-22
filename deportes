@@ -2,7 +2,7 @@
 
 #EXTM3U
 
-#EXTINF: -1 tvg-group-titles="Peru", LIGA1 MAX
+#EXTINF:-14 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="NACIONALES", LIGA1 MAX
 
 http://elmonkey.us:25461/santana/1234/686
 
