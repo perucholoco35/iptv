@@ -70,15 +70,15 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/123871
 
 http://elmonkey.us:25461/santana/1234/117096
 
-#EXTINF: -1,MOVISTAR Deportes hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Px0sML5R/images.png", MOVISTAR Deportes hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34743
 
-#EXTINF: -1,MOVISTAR DEPORTES maxpro
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Px0sML5R/images.png", MOVISTAR DEPORTES maxpro
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/289.ts
 
-#EXTINF: -1,MOVISTAR DEPORTES maxpro opc 2
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Px0sML5R/images.png", MOVISTAR DEPORTES maxpro opc 2
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/228733.ts
 
