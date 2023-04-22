@@ -179,7 +179,7 @@ http://elmonkey.us:25461/santana/1234/91048
 
 http://45.228.232.204:16000/play/a07r/index.m3u8
 
-#EXTINF: -1,ESPN 2 MX monkey
+#EXTINF: -1 tvg-logo=*https://i.postimg.cc/s2FRJ8tp/tv-station-mx-espn-2-938.png", ESPN 2 MX monkey
 
 http://elmonkey.us:25461/santana/1234/91049
 
