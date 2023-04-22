@@ -150,11 +150,11 @@ http://elmonkey.us:25461/santana/1234/91069
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31815.ts
 
-#EXTINF: -1,ESPN 4 SA 190.27.253.211:8000
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/qvWRKDHs/images.jpg", ESPN 4 SA 190.27.253.211:8000
 
 http://190.27.253.211:8000/play/a08e/index.m3u8
 
-#EXTINF: -1,ESPN 4 monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/qvWRKDHs/images.jpg", ESPN 4 monkey
 
 http://elmonkey.us:25461/santana/1234/91065
 
