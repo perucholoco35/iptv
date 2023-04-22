@@ -94,11 +94,11 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/312725
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/232231.ts
 
-#EXTINF: -1,BEIN ING hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Hsqh5TK6/Download.png", BEIN ING hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/43662
 
-#EXTINF: -1,BEIN ING monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Hsqh5TK6/Download.png", BEIN ING monkey
 
 http://elmonkey.us:25461/santana/1234/354
 
