@@ -6,11 +6,11 @@
 
 http://elmonkey.us:25461/santana/1234/686
 
-#EXTINF: -1 tvg-logo='https://i.postimg.cc/k48qr55k/images-18.png", LIGA1 MAX OP2 ipmi
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/k48qr55k/images-18.png" , LIGA1 MAX OP2 ipmi
 
 http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136502.ts
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/k48qr55k/images-18.png", LIGA1 MAX maxpro
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/k48qr55k/images-18.png" , LIGA1 MAX maxpro
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/330951.ts
 
