@@ -30,9 +30,9 @@ http://elmonkey.us:25461/santana/1234/117091
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/123872
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XBWb2eJhBdGrlblSE2KvBX-oJkSbPpACcQ&usqp=CAU", DIRECTV MAXPRO
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XBWb2eJhBdGrlblSE2KvBX-oJkSbPpACcQ&usqp=CAU", DIRECTV paul
 
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31164.ts
+http://50.7.66.234:8080/Paul19/Paul19/1091366
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/RZKNkSTn/images-5.png", DIRECTV 2 FHD hplay
 
@@ -42,9 +42,9 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/187724
 
 http://elmonkey.us:25461/santana/1234/117090
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/RZKNkSTn/images-5.png", DIRECTV2 maxpro
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/RZKNkSTn/images-5.png", DIRECTV2 50.7.66
 
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31164.ts
+http://50.7.66.234:8080/Paul19/Paul19/1091367
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XBWb2eJhBdGrlblSE2KvBX-oJkSbPpACcQ&usqp=CAU", DIRECTV CO hplay
 
@@ -74,9 +74,9 @@ http://elmonkey.us:25461/santana/1234/117096
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34743
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/Px0sML5R/images.png", MOVISTAR DEPORTES maxpro
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Px0sML5R/images.png", MOVISTAR DEPORTES 50.7.66
 
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/289.ts
+http://50.7.66.234:8080/Paul19/Paul19/1092642
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Px0sML5R/images.png", MOVISTAR DEPORTES maxpro opc 2
 
@@ -130,25 +130,25 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/123652
 
 http://elmonkey.us:25461/santana/1234/91059
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/2y6qxL9v/Espn-logo-PNG1.png", ESPN maxpro
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/2y6qxL9v/Espn-logo-PNG1.png", 50.7.66
 
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/115770.ts
+http://50.7.66.234:8080/Paul19/Paul19/1155888
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/154z41VC/images.png", ESPN Deportes monkey
 
 http://elmonkey.us:25461/santana/1234/91046
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/3R4PSgWH/images-1.jpg", ESPN 2 maxpro
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3R4PSgWH/images-1.jpg", ESPN 2 50.7.66
 
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31814.ts
+http://50.7.66.234:8080/Paul19/Paul19/1089695
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3xsdD8sr/images-1.jpg", ESPN 3 SA monkey
 
 http://elmonkey.us:25461/santana/1234/91069
 
-#EXTINF: -1,ESPN 3 SA maxpro
+#EXTINF: -1,ESPN 3 SA 50.7.66
 
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/31815.ts
+http://50.7.66.234:8080/Paul19/Paul19/43639
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/qvWRKDHs/images.jpg", ESPN 4 SA 190.27.253.211:8000
 
@@ -158,9 +158,9 @@ http://190.27.253.211:8000/play/a08e/index.m3u8
 
 http://elmonkey.us:25461/santana/1234/91065
 
-#EXTINF: -1,ESPN 4 maxpro
+#EXTINF: -1,ESPN 4 50.7.66
 
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/305906.ts
+http://50.7.66.234:8080/Paul19/Paul19/18580
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/W1ZD5cnW/images-1.png", ESPN EXTRA hplay
 
@@ -170,6 +170,9 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/312844
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34648
 
+#EXTINF : -1 ESPN PREMIUM 50.7.66
+
+http://50.7.66.234:8080/Paul19/Paul19/4193
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/8khvN8TY/images-6.png", ESPN MX monkey
 
