@@ -306,9 +306,9 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/312668
 
 http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2909
 
-#EXTINF: -1,FOX SPORT 2 SA ipmi
+#EXTINF: -1,FOX SPORT 2 SA 50.7.66
 
-http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136104.ts
+http://50.7.66.234:8080/Paul19/Paul19/1090740
 
 #EXTINF: -1,FOX SPORT 2 190.27.253.211:8000
 
@@ -322,15 +322,15 @@ http://50.7.66.234:8080/Paul19/Paul19/33475
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/312667
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/13Rd6ns1/images-9.png", TNT SPORT Arg hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/13Rd6ns1/images-9.png", TNT SPORT Arg 50.7.66
 
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/34684
+http://50.7.66.234:8080/Paul19/Paul19/1155814
 
 #EXTINF: -1,TNT SPORT CH 50.7.66
 
 http://50.7.66.234:8080/Paul19/Paul19/1156014
 
-#EXTINF: -1,TNT CHILE maxpro
+#EXTINF: -1,TNT SPORT 2 CHILE 50.7.66
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/26933.ts
 
@@ -342,9 +342,9 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/303780
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/303782
 
-#EXTINF: -1,DAZN 3 p.ultra
+#EXTINF: -1,DAZN F1 50.7.66
 
-http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/69778 
+http://50.7.66.234:8080/Paul19/Paul19/1143419
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN ragnarok
 
@@ -382,9 +382,17 @@ http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37926
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34714
 
+#EXTINF: -1,UFC NETWORK 50.7.66
+
+http://50.7.66.234:8080/Paul19/Paul19/4082
+
 #EXTINF: -1,FIGHT NETWORK ragnarok
 
 http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2906
+
+#EXTINF: -1,DIRECTV FIGHT 50.7.66
+
+http://50.7.66.234:8080/Paul19/Paul19/1155911
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zvjvRTnT/NBA-TV-svg.webp", NBA TV hplay
 
@@ -392,8 +400,11 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34712
 
 #EXTINF: -1,NBA TV ragnarokdirectv 2
 
-
 http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2927
+
+#EXTINF: -1,NBA TV 50.7.66
+
+http://50.7.66.234:8080/Paul19/Paul19/1117721
 
 #EXTINF: -1,ESPN premium hplay
 
