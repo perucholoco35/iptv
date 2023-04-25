@@ -358,11 +358,11 @@ http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2292
 
 http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2293
 
-#EXTINF: -1 "https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN 4 ragnarok
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN 4 ragnarok
 
 http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2294
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg" TSN 5 ragnarok
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN 5 ragnarok
 
 http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2295
 
@@ -518,7 +518,7 @@ http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/11494
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34693
 
-#EXTIN: -1,NFL NETWORK hplay
+#EXTINF: -1,NFL NETWORK hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34705
 
