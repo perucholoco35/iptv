@@ -14,7 +14,7 @@ http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136502.ts
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/330951.ts
 
-#EXTINF: -1,ESPN Perú maxpro
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/YCLM4mhL/images-6-10.png", ESPN Perú maxpro
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/302520.ts
 
@@ -122,15 +122,15 @@ http://elmonkey.us:25461/santana/1234/117057
 
 http://elmonkey.us:25461/santana/1234/117063
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/sgjS4w9Z/images-8-4.png", ESPN hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/YCLM4mhL/images-6-10.png", ESPN hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/123652
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/sgjS4w9Z/images-8-4.png", ESPN monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/YCLM4mhL/images-6-10.png", ESPN monkey
 
 http://elmonkey.us:25461/santana/1234/91059
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/2y6qxL9v/Espn-logo-PNG1.png", 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/YCLM4mhL/images-6-10.png", ESPN 50.7.66
 
 http://50.7.66.234:8080/Paul19/Paul19/1155888
 
