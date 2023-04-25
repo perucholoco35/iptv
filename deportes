@@ -2,11 +2,11 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7QrKSYlMGvYE5OPTK-5hS0rjnGRzoVN2CWg&usqp=CAU", LIGA1 MAX
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k48qr55k/images-18.png", LIGA1 MAX
 
 http://elmonkey.us:25461/santana/1234/686
 
-#EXTINF: -1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7QrKSYlMGvYE5OPTK-5hS0rjnGRzoVN2CWg&usqp=CAU", LIGA1 MAX OP2 ipmi
+#EXTINF: -1 tvg-logo='https://i.postimg.cc/hGNc3mKL/images-18-2.png", LIGA1 MAX OP2 ipmi
 
 http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136502.ts
 
