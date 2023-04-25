@@ -339,21 +339,29 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/303782
 
 http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/69778 
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN ragnarok
 
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/181851
+http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2291
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN 2 hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN 2 ragnarok
 
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/181852
+http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2292
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN 3 hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN 3 ragnarok
 
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/181853
+http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2293
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN 4 hplay
+#EXTINF: -1 "https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN 4 ragnarok
 
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/181854
+http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2294
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg" TSN 5 ragnarok
+
+http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2295
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCz8SMpW/images-5.jpg", TUDN ragnarok
+
+http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/7297
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/cCz8SMpW/images-5.jpg", TUDN hplay
 
@@ -367,9 +375,9 @@ http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37926
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34714
 
-#EXTINF: -1,FIGHT NETWORK bgtv
+#EXTINF: -1,FIGHT NETWORK ragnarok
 
-http://bgtv.site/403/tv30.php?c=NTMtNzA4Mg==&token=pioioiylklkhkuacv&f=.m3u8
+http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2906
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zvjvRTnT/NBA-TV-svg.webp", NBA TV hplay
 
