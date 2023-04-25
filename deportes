@@ -162,23 +162,23 @@ http://elmonkey.us:25461/santana/1234/91065
 
 http://50.7.66.234:8080/Paul19/Paul19/18580
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/W1ZD5cnW/images-1.png", ESPN EXTRA hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/BZjmxQQG/images-1-9.png", ESPN EXTRA hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/312844
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/mg6s1PMK/images-2.png", ESPN premium hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/tTTxGTmR/images-2-9.png", ESPN premium hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34648
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/mg6s1PMK/images-2.png", ESPN PREMIUM 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/tTTxGTmR/images-2-9.png", ESPN PREMIUM 50.7.66
 
 http://50.7.66.234:8080/Paul19/Paul19/4193
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/8khvN8TY/images-6.png", ESPN MX monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/sDR5vVMm/images-6-5.png", ESPN MX monkey
 
 http://elmonkey.us:25461/santana/1234/91048
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/8khvN8TY/images-6.png", ESPN MX 45.228.232.204:16000
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/sDR5vVMm/images-6-5.png", ESPN MX 45.228.232.204:16000
 
 http://45.228.232.204:16000/play/a07r/index.m3u8
 
