@@ -146,7 +146,7 @@ http://50.7.66.234:8080/Paul19/Paul19/1089695
 
 http://elmonkey.us:25461/santana/1234/91069
 
-#EXTINF: -1,ESPN 3 SA 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3xsdD8sr/images-1.jpg", ESPN 3 SA 50.7.66
 
 http://50.7.66.234:8080/Paul19/Paul19/43639
 
@@ -158,7 +158,7 @@ http://190.27.253.211:8000/play/a08e/index.m3u8
 
 http://elmonkey.us:25461/santana/1234/91065
 
-#EXTINF: -1,ESPN 4 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/qvWRKDHs/images.jpg", ESPN 4 50.7.66
 
 http://50.7.66.234:8080/Paul19/Paul19/18580
 
@@ -170,7 +170,7 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/312844
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34648
 
-#EXTINF : -1 ESPN PREMIUM 50.7.66
+#EXTINF : -1 tvg-logo="https://i.postimg.cc/mg6s1PMK/images-2.png", ESPN PREMIUM 50.7.66
 
 http://50.7.66.234:8080/Paul19/Paul19/4193
 
@@ -210,7 +210,7 @@ http://elmonkey.us:25461/santana/1234/91071
 
 http://elmonkey.us:25461/santana/1234/91219
 
-#EXTINF: -1,ESPN 2 ragnarok
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/3R4PSgWH/images-1.jpg", ESPN 2 ragnarok
 
 http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2902
 
