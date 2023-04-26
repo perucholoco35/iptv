@@ -458,6 +458,10 @@ http://elmonkey.us:25461/santana/1234/91447
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24160.ts
 
+#EXTINF: -1,SPORT TV 🇵🇹 
+
+http://fortv.cc:8080/Carter/Carter123/167742
+
 #EXTINF: -1,PREMIERE 1 maxpro
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24163.ts
@@ -509,6 +513,10 @@ http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2909
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/QM6qTv2t/images-18-2.png", ECDF EC hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/304386
+
+#EXTINF: -1, ROOT SPORT fortv
+
+http://fortv.cc:8080/Carter/Carter123/85232
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/CxTWtTZ2/images-23-14.png", WIN SPORT fortv
 
