@@ -442,19 +442,19 @@ http://fortv.cc:8080/Carter/Carter123/35238
 
 http://fortv.cc:8080/Carter/Carter123/76842
 
-#EXTINF: -1,SPORT TV 1 monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/nhNp0Pdk/images-18.png", SPORT TV 1 BRA monkey
 
 http://elmonkey.us:25461/santana/1234/91446
 
-#EXTINF: -1,SPORT TV 1 hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/nhNp0Pdk/images-18.png", SPORT TV 1 BRA hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/304180
 
-#EXTINF: -1,SPORT TV 2 monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/XYrnKbgq/images-3-17.png", SPORT TV 2 BRA monkey
 
 http://elmonkey.us:25461/santana/1234/91447
 
-#EXTINF: -1,SPORT TV 1 maxpro
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/nhNp0Pdk/images-18.png", SPORT TV 1 BRA maxpro
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24160.ts
 
