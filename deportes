@@ -182,11 +182,11 @@ http://elmonkey.us:25461/santana/1234/91048
 
 http://45.228.232.204:16000/play/a07r/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/qqSngrZh/images-7-2.png", ESPN 2 MX monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/26wyTY0n/images-7-2-11.png", ESPN 2 MX monkey
 
 http://elmonkey.us:25461/santana/1234/91049
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/qqSngrZh/images-7-2.png", ESPN 2 MX bgtv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/26wyTY0n/images-7-2-11.png", ESPN 2 MX bgtv
 
 http://bgtv.site/403/tv30.php?c=MTYtNzA4MQ==&token=pioioiylklkhkuacv&f=.m3u8
 
