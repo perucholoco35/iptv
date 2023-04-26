@@ -378,7 +378,7 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/304510
 
 http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37926
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/prP3yjVN/images-3.png", UFC usa hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/J4mBRPFd/images-12.png", UFC usa hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34714
 
@@ -394,15 +394,15 @@ http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2906
 
 http://50.7.66.234:8080/Paul19/Paul19/1155911
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/zvjvRTnT/NBA-TV-svg.webp", NBA TV hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/tR82DQYn/NBA_TV.svg.png", NBA TV hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34712
 
-#EXTINF: -1,NBA TV ragnarokdirectv 2
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/tR82DQYn/NBA_TV.svg.png",NBA TV ragnarokdirectv 2
 
 http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2927
 
-#EXTINF: -1,NBA TV 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/tR82DQYn/NBA_TV.svg.png", NBA TV 50.7.66
 
 http://50.7.66.234:8080/Paul19/Paul19/1117721
 
