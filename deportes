@@ -458,19 +458,19 @@ http://elmonkey.us:25461/santana/1234/91447
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24160.ts
 
-#EXTINF: -1,SPORT TV 🇵🇹 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/G2Cr1snT/images-2-17.png", SPORT TV 🇵🇹 
 
 http://fortv.cc:8080/Carter/Carter123/167742
 
-#EXTINF: -1,SPORT TV 2 🇵🇹 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/mrMRqyJG/images-2-14.png", SPORT TV 2 🇵🇹 
 
 http://fortv.cc:8080/Carter/Carter123/167743
 
-#EXTINF: -1SPORT TV 3 🇵🇹 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/vBty8HGq/images-2-15.png", SPORT TV 3 🇵🇹 
 
 http://fortv.cc:8080/Carter/Carter123/167744
 
-#EXTINF: -1,SPORT TV 4 🇵🇹 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/yx6HD4dV/images-2-16.png", SPORT TV 4 🇵🇹 
 
 http://fortv.cc:8080/Carter/Carter123/167749
 
