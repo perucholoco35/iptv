@@ -514,15 +514,15 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34696
 
 http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/11494
 
-#EXTINF: -1,GOL TV ECU hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/XJbvKmL9/images-17-10.png", GOL TV ECU hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34693
 
-#EXTINF: -1,NFL NETWORK hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/MKbmyJYm/images-16-10.png", NFL NETWORK hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34705
 
-#EXTINF: -1,CBS SPORT NETWORK bgtv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/NGn4gxjR/images-18.png", CBS SPORT NETWORK bgtv
 
 http://bgtv.site/403/tv30.php?c=NDctNzA4Mg==&token=pioioiylklkhkuacv&f=.m3u8
 
