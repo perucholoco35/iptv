@@ -294,9 +294,9 @@ http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/9671
 
 http://50.7.66.234:8080/Paul19/Paul19/1151425
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/V6dWBDwF/images-9_(6).png", SKY LIGA1 INGLESA
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/V6dWBDwF/images-9_(6).png", SKY LIGA INGLESA fortv
 
-http://live.budtvlight.com:25461/Luna001/18dabf00/35478
+http://fortv.cc:8080/Carter/Carter123/137720
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/RVRJhw5C/download.png",FOX SPORT SA hplay
 
@@ -517,6 +517,12 @@ http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/11140
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/6qKXXTB2/images-11-6-13.png", GOLF Channel hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34696
+
+#EXTINF: -1, SKY SPORT GOLF
+
+http://fortv.cc:8080/Carter/Carter123/35240
+
+
 
 #EXTINF: -1,BALLY SPORT SAN Diego ragnarok
 
