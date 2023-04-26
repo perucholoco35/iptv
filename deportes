@@ -306,6 +306,10 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34640
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/312668
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Wzp40qVM/images-4-14.png", FOX SPORT 1 USA fortv
+
+http://fortv.cc:8080/Carter/Carter123/1846
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gk49L6Xz/1200px-FS2-logo-2015-svg-png-12-13-13-13.png",FOX SPORT 2 USA 
 
 http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2909
@@ -350,29 +354,29 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/303782
 
 http://50.7.66.234:8080/Paul19/Paul19/1143419
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/ZnLn9zQs/images-16.png", TSN ragnarok
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/ZnLn9zQs/images-16.png", TSN fortv
 
-http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2291
+http://fortv.cc:8080/Carter/Carter123/47440
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/Ghf3V63w/images-17.png", TSN 2 ragnarok
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Ghf3V63w/images-17.png", TSN 2 fortv
 
-http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2292
+http://fortv.cc:8080/Carter/Carter123/16129
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/prvyXLsn/download-2.png", TSN 3 ragnarok
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/prvyXLsn/download-2.png", TSN 3 fortv
 
-http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2293
+http://fortv.cc:8080/Carter/Carter123/10389
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HkvJ4Hkf/tv-station-tsn4-191.png", TSN 4 ragnarok
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/HkvJ4Hkf/tv-station-tsn4-191.png", TSN 4 fortv
 
-http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2294
+http://fortv.cc:8080/Carter/Carter123/66783
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN 5 ragnarok
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCCWwnnS/images-4.jpg", TSN 5 fortv
 
-http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2295
+http://fortv.cc:8080/Carter/Carter123/16131
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/zGrpZCwJ/images-5-7.png", TUDN ragnarok
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/zGrpZCwJ/images-5-7.png", TUDN fortv
 
-http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/7297
+http://fortv.cc:8080/Carter/Carter123/11885
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/zGrpZCwJ/images-5-7.png", TUDN hplay
 
