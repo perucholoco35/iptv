@@ -330,11 +330,11 @@ http://50.7.66.234:8080/Paul19/Paul19/33475
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/312667
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/Hk6MZXBv/images-9-3.png", 🇦🇷TNT SPORT🇦🇷50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Hk6MZXBv/images-9-3.png", TNT SPORT🇦🇷50.7.66
 
 http://50.7.66.234:8080/Paul19/Paul19/1155814
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/pd7FxxND/images-9-2-3.png", 🇨🇱TNT SPORT🇨🇱50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/pd7FxxND/images-9-2-3.png", TNT SPORT🇨🇱50.7.66
 
 http://50.7.66.234:8080/Paul19/Paul19/1156014
 
@@ -461,6 +461,18 @@ http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/24160.ts
 #EXTINF: -1,SPORT TV 🇵🇹 
 
 http://fortv.cc:8080/Carter/Carter123/167742
+
+#EXTINF: -1,SPORT TV 2 🇵🇹 
+
+http://fortv.cc:8080/Carter/Carter123/167743
+
+#EXTINF: -1SPORT TV 3 🇵🇹 
+
+http://fortv.cc:8080/Carter/Carter123/167744
+
+#EXTINF: -1,SPORT TV 4 🇵🇹 
+
+http://fortv.cc:8080/Carter/Carter123/167749
 
 #EXTINF: -1,PREMIERE 1 maxpro
 
