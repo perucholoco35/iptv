@@ -490,15 +490,15 @@ http://fortv.cc:8080/Carter/Carter123/167744
 
 http://fortv.cc:8080/Carter/Carter123/167749
 
-#EXTINF: -1,PREMIERE 1 gamsgo
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/G353rkx7/images-11-21.png", PREMIERE 1 gamsgo
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/8785
 
-#EXTINF: -1,PREMIERE 2 gamsgo
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/0jb8DQP0/images-11-22.png", PREMIERE 2 gamsgo
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/8786
 
-#EXTINF: -1,PREMIERE 3 gamsgo
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QCwjb3MG/images-11-23.png", PREMIERE 3 gamsgo
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/8787
 
@@ -608,7 +608,7 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/280132
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/280137
 
-#EXTINF: -1' tvg-logo="https://i.postimg.cc/L40BjbmH/images-18-2.png", CCS 3 gamsgo
+#EXTINF: -1, tvg-logo="https://i.postimg.cc/L40BjbmH/images-18-2.png", CCS 3 gamsgo
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/280134
 
@@ -624,7 +624,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
-#EXTINF: -15 tvg-logo="https://i.postimg.cc/HL8jc9FJ/images-10_(18)_(19).png", ABU DABHI SPORTS 2 cdn
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/HL8jc9FJ/images-10_(18)_(19).png", ABU DABHI SPORTS 2 cdn
 
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
