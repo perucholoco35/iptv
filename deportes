@@ -154,31 +154,31 @@ http://elmonkey.us:25461/santana/1234/91069
 
 http://50.7.66.234:8080/Paul19/Paul19/43639
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/7hJJbRkp/images-9.png", ESPN 4 SA 190.27.253.211:8000
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Dz9cH2vf/images-9-28.png", ESPN 4 SA 190.27.253.211:8000
 
 http://190.27.253.211:8000/play/a08e/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/7hJJbRkp/images-9.png", ESPN 4 monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Dz9cH2vf/images-9-28.png", ESPN 4 monkey
 
 http://elmonkey.us:25461/santana/1234/91065
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/7hJJbRkp/images-9.png", ESPN 4 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Dz9cH2vf/images-9-28.png", ESPN 4 50.7.66
 
 http://50.7.66.234:8080/Paul19/Paul19/18580
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/BZjmxQQG/images-1-9.png", ESPN EXTRA hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/26nxfPyQ/images-1-9-28.png", ESPN EXTRA hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/312844
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/tTTxGTmR/images-2-9.png", ESPN premium hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/cJgmFKN5/images-2-9-28.png", ESPN premium hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34648
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/tTTxGTmR/images-2-9.png", ESPN PREMIUM 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/cJgmFKN5/images-2-9-28.png", ESPN PREMIUM 50.7.66
 
 http://50.7.66.234:8080/Paul19/Paul19/4193
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/tTTxGTmR/images-2-9.png", ESPN premium hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/cJgmFKN5/images-2-9-28.png", ESPN premium hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34648
 
