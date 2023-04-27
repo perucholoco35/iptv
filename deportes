@@ -605,11 +605,11 @@ http://flash.shortgod.com/cocoli/tv3.php?id=a07i
 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF: -1,ABU DABHI SPORTS 1 cdn
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/2SKVSK9R/images-10_(19).png", ABU DABHI SPORTS 1 cdn
 
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
-#EXTINF: -15 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="PERU",ABU DABHI SPORTS 2 cdn
+#EXTINF: -15 tvg-logo="https://i.postimg.cc/HL8jc9FJ/images-10_(18)_(19).png", ABU DABHI SPORTS 2 cdn
 
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
