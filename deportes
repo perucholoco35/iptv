@@ -30,9 +30,9 @@ http://elmonkey.us:25461/santana/1234/117091
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/123872
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/85Shw75D/images-24.png", DIRECTV paul
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/85Shw75D/images-24.png", DIRECTV iptves
 
-http://50.7.66.234:8080/Paul19/Paul19/1091366
+http://iptves.live:8080/plexserver/7wkxn6N9AS/215780.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/HkhhBDF3/images-5-25.png", DIRECTV 2 FHD hplay
 
@@ -42,9 +42,9 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/187724
 
 http://elmonkey.us:25461/santana/1234/117090
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HkhhBDF3/images-5-25.png", DIRECTV2 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/HkhhBDF3/images-5-25.png", DIRECTV2 iptves
 
-http://50.7.66.234:8080/Paul19/Paul19/1091367
+http://iptves.live:8080/plexserver/7wkxn6N9AS/215781.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/XYqVrWwg/images-27.png", DIRECTV CO hplay
 
@@ -134,9 +134,9 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/123652
 
 http://elmonkey.us:25461/santana/1234/91059
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/90FchHbK/images-6-10-28.png", ESPN 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/90FchHbK/images-6-10-28.png", ESPN iptves
 
-http://50.7.66.234:8080/Paul19/Paul19/1155888
+http://iptves.live:8080/plexserver/7wkxn6N9AS/215793.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/g20LKfPM/images-10-28.png", ESPN Deportes monkey
 
@@ -150,9 +150,9 @@ http://50.7.66.234:8080/Paul19/Paul19/1089695
 
 http://elmonkey.us:25461/santana/1234/91069
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/28rZ119N/images-1-8-28.png", ESPN 3 SA 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/28rZ119N/images-1-8-28.png", ESPN 3 SA iptves
 
-http://50.7.66.234:8080/Paul19/Paul19/43639
+http://iptves.live:8080/plexserver/7wkxn6N9AS/215795.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Dz9cH2vf/images-9-28.png", ESPN 4 SA 190.27.253.211:8000
 
@@ -174,9 +174,9 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/312844
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34648
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cJgmFKN5/images-2-9-28.png", ESPN PREMIUM 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/cJgmFKN5/images-2-9-28.png", ESPN PREMIUM iptves
 
-http://50.7.66.234:8080/Paul19/Paul19/4193
+http://iptves.live:8080/plexserver/7wkxn6N9AS/215794.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/cJgmFKN5/images-2-9-28.png", ESPN premium hplay
 
