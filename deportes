@@ -214,7 +214,7 @@ http://elmonkey.us:25461/santana/1234/91070
 
 http://elmonkey.us:25461/santana/1234/91071
 
-#EXTINF: -1,ESPN  monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/bJRmKsm0/images-6-10-31.png", ESPN  monkey
 
 http://elmonkey.us:25461/santana/1234/91219
 
@@ -222,7 +222,7 @@ http://elmonkey.us:25461/santana/1234/91219
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/281480
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HWN8D395/images-8-3-13.png", ESPN NEWS  monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/L56xR2Wc/images-8-3-13-31.png", ESPN NEWS  monkey
 
 http://elmonkey.us:25461/santana/1234/91221
 
