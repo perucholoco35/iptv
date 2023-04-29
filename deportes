@@ -668,11 +668,11 @@ http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 
 http://fortv.cc:8080/Carter/Carter123/137719
 
-#EXTINF: -1, Canal+ foot Francia 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/kggcs4BH/images-3-42.png", Canal+ foot Francia 
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/297371
 
-#EXTINF: -1,Canal+ F1
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/pLcB6HjL/images-22-42.png", Canal+ F1
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/295260
 
@@ -680,27 +680,25 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/295260
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/143
 
-#EXTINF: -1,Canal+ 1
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/28mTqTmr/images-23-42.png", CANAL+ SPORT 1
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/291175
 
-#EXTINF: -1,Canal+ 3
 
-http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/291177
 
-#EXTINF: -1,Canal+ 4
 
-http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/297381
 
-#EXTINF: -1,Canal+ 5
 
-http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/291178
 
-#EXTINF: -1,Canal+ sport 360
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Wp0XbCB5/tv-station-canal-plus-sport-360-2807-1.png", CANAL+ SPORT 360
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/297378
 
-#EXTINF: -1,Equidia francia
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Yq3RQgqg/images-4-42.png", EQUIDIA
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/276130
 
