@@ -158,9 +158,9 @@ http://iptves.live:8080/plexserver/7wkxn6N9AS/215793.ts
 
 http://elmonkey.us:25461/santana/1234/91046
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/9FbqZcsR/images-1-2-28.png", ESPN 2 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/9FbqZcsR/images-1-2-28.png", ESPN 2 iptes
 
-http://50.7.66.234:8080/Paul19/Paul19/1089695
+http://iptves.live:8080/plexserver/7wkxn6N9AS/215794.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/28rZ119N/images-1-8-28.png", ESPN 3 SA monkey
 
