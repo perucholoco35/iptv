@@ -957,6 +957,32 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/43712
 #EXTINF: -1,MOTOR VISION TV pluto
 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/ZKqLVk28/images-9.png", MATCH! 2
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/55800
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/c46QfRtT/images-9-4.png", MATCH! 3
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/55802
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/XJ8wkxg1/match-premium.png", MATCH! PREMIUM
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/60499
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/prLKG8GW/match-arena.png", MATCH! ARENA
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/55801
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/9XLd480r/images-9-2.png", MATCH! STRANA
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/148347
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/7ht0p6dg/images-10.png", MATCH!
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/75641
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/hjgLmNV7/tv-station-khl-prime-2685.png", KHL PRIME
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/297582
+#EXTINF: -1 tvg-logo"https://i.postimg.cc/FHQfp3vd/images-9-3.png", NOVA SPORT 1 REPÚBLICA CHECA
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/279611
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zB70cky/images-8.png",  NOVA SPORT 2
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/46718
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/xTzP1mNZ/images-16-48.png", VSPORT 1 Finlandia 
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/297929
+#EXTINF: -1, tvg-logo="https://i.postimg.cc/Y2V37R0g/images-16-47.png", VSPORT 2
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/297930
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/wvsGYjL8/images-16_(49).png", VSPORT+
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/297931
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QN1d0N27/images-35_(48).png", VSPORT MOTOR Suecia 
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/6273
 
 #EXTINF: -1 group-title="ENTRETENIMIENTO", ANIMAL PLANET
 
