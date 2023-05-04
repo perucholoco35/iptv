@@ -6,7 +6,7 @@
 
 http://tvstarlife.live:25461/geovany/geovany/213048
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/SQ9XTS9t/images-18-24.png" , LIGA1 MAX OP2 ipmi
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/SQ9XTS9t/images-18-24.png" , LIGA1 MAX OP2 tvstarlife 
 
 http://tvstarlife.live:25461/geovany/geovany/213048
 
@@ -18,25 +18,25 @@ http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/330951.ts
 
 http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/302520.ts
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/KvJGcjgz/images-26.png", DIRECTV PERU maxpro
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/KvJGcjgz/images-26.png", DIRECTV PERU tvstarlife 
 
-http://maxpro.cc:2095/live/interevo292DF/UuHSjsh6Z2uL/300839.ts
+http://tvstarlife.live:25461/geovany/geovany/1340
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/85Shw75D/images-24.png", Directv monkey
 
 http://elmonkey.us:25461/santana/1234/117091
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/85Shw75D/images-24.png", DIRECTV hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/85Shw75D/images-24.png", DIRECTV tvstarlife 
 
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/123872
+http://tvstarlife.live:25461/geovany/geovany/1301
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/85Shw75D/images-24.png", DIRECTV iptves
 
 http://iptves.live:8080/plexserver/7wkxn6N9AS/215780.ts
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/HkhhBDF3/images-5-25.png", DIRECTV 2 FHD hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/HkhhBDF3/images-5-25.png", DIRECTV 2 FHD tvstarlife 
 
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/187724
+http://tvstarlife.live:25461/geovany/geovany/1302
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/HkhhBDF3/images-5-25.png",DIRECTV2 monkey
 
@@ -66,9 +66,9 @@ http://elmonkey.us:25461/santana/1234/117090
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/123871
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/Njd7sspk/images-4-10-24.png", GOL PERU monkey
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Njd7sspk/images-4-10-24.png", GOL PERU tvstarlife
 
-http://elmonkey.us:25461/santana/1234/117096
+http://tvstarlife.live:25461/geovany/geovany/27443
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Njd7sspk/images-4-10-24.png", GOL PERU gamsgo
 
@@ -96,7 +96,7 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/312725
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/rwqKw7mV/images-2-6-28.png", Bein SPORT Ñ ragnarok
 
-http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2895
+http://tvstarlife.live:25461/geovany/geovany/423
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/bwLdDLDQ/images-3-28.png", BEIN SPORT  hplay
 
@@ -170,9 +170,9 @@ http://elmonkey.us:25461/santana/1234/91069
 
 http://iptves.live:8080/plexserver/7wkxn6N9AS/215795.ts
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/Dz9cH2vf/images-9-28.png", ESPN 4 SA 190.27.253.211:8000
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Dz9cH2vf/images-9-28.png", ESPN 4 tvstarlife 
 
-http://190.27.253.211:8000/play/a08e/index.m3u8
+http://tvstarlife.live:25461/geovany/geovany/1324
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Dz9cH2vf/images-9-28.png", ESPN 4 monkey
 
@@ -186,9 +186,9 @@ http://50.7.66.234:8080/Paul19/Paul19/18580
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/312844
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cJgmFKN5/images-2-9-28.png", ESPN premium hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/cJgmFKN5/images-2-9-28.png", ESPN premium tvstarlife 
 
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/34648
+http://tvstarlife.live:25461/geovany/geovany/1333
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/cJgmFKN5/images-2-9-28.png", ESPN PREMIUM iptves
 
@@ -202,9 +202,9 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34648
 
 http://elmonkey.us:25461/santana/1234/91048
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/XYNwXs7b/images-6-10-29.png", ESPN 45.228.232.204:16000
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/XYNwXs7b/images-6-10-29.png", ESPN tvstarlife 
 
-http://45.228.232.204:16000/play/a07r/index.m3u8
+http://tvstarlife.live:25461/geovany/geovany/27303
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/7Yn3xF49/images-1-2-29.png", ESPN 2  monkey
 
@@ -350,9 +350,9 @@ http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2909
 
 http://50.7.66.234:8080/Paul19/Paul19/1090740
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/4yGHdgp5/Fox-Sports-2-Argentina-2023-svg-13-13-14-35.png",FOX SPORT 2 190.27.253.211:8000
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/4yGHdgp5/Fox-Sports-2-Argentina-2023-svg-13-13-14-35.png",FOX SPORT 2 tvstarlife
 
-http://190.27.253.211:8000/play/a07q/index.m3u8
+http://tvstarlife.live:25461/geovany/geovany/1331
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/vBCNn1cy/Fox_Sports_3_Argentina_2023.svg_(14)_(14)_(35).png",FOX SPORT 3 SA 50.7.66
 
