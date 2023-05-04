@@ -178,13 +178,13 @@ http://tvstarlife.live:25461/geovany/geovany/1324
 
 http://elmonkey.us:25461/santana/1234/91065
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/Dz9cH2vf/images-9-28.png", ESPN 4 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Dz9cH2vf/images-9-28.png", ESPN 4 disfruta 
 
-http://50.7.66.234:8080/Paul19/Paul19/18580
+http://disfruta.net:80/rogerioreyna/Nja87vPmA/11909
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/26nxfPyQ/images-1-9-28.png", ESPN EXTRA hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/26nxfPyQ/images-1-9-28.png", ESPN EXTRA disfruta 
 
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/312844
+http://disfruta.net:80/rogerioreyna/Nja87vPmA/1089
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/cJgmFKN5/images-2-9-28.png", ESPN premium tvstarlife 
 
@@ -242,9 +242,9 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/281480
 
 http://elmonkey.us:25461/santana/1234/91221
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/q7WQFq9q/images-24-34.png", LIGA DE CAMPEONES MOVISTAR  50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/q7WQFq9q/images-24-34.png", LIGA DE CAMPEONES MOVISTAR  disfruta 
 
-http://50.7.66.234:8080/Paul19/Paul19/1156049
+http://disfruta.net:80/rogerioreyna/Nja87vPmA/1691
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/pTLhDMWZ/images-15-35.png", BT SPORT UK monkey
 
@@ -282,9 +282,9 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1160
 
 http://fortv.cc:8080/Carter/Carter123/53713
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/MTRtJxSD/images-15_(11)_(34).png", EUROSPORT 1 ESP 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/MTRtJxSD/images-15_(11)_(34).png", EUROSPORT 1 ESP disfruta 
 
-http://50.7.66.234:8080/Paul19/Paul19/41816
+http://disfruta.net:80/rogerioreyna/Nja87vPmA/1814
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/WbHDgHCm/images-15-3-35.png", EUROSPORT 2 hplay
 
@@ -298,9 +298,9 @@ http://50.7.66.234:8080/Paul19/Paul19/51352
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1159
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/4xHY51RD/images-10-6-35.png", TYC SPORT hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/4xHY51RD/images-10-6-35.png", TYC SPORT disfruta 
 
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/34686
+http://disfruta.net:80/rogerioreyna/Nja87vPmA/2797
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/4xHY51RD/images-10-6-35.png", TYC SPORT OP2
 
@@ -318,9 +318,15 @@ http://50.7.66.234:8080/Paul19/Paul19/1151425
 
 http://fortv.cc:8080/Carter/Carter123/137720
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/GmgDj61L/download-35.png",FOX SPORT SA hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/GmgDj61L/download-35.png",FOX SPORT 1 hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34640
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/GmgDj61L/download-35.png", FOX SPORT 1 disfruta 
+
+http://disfruta.net:80/rogerioreyna/Nja87vPmA/1093
+
+
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Wzp40qVM/images-4-14.png", FOX SPORT 1 USA hplay
 
@@ -334,6 +340,10 @@ http://fortv.cc:8080/Carter/Carter123/1846
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34646
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/vBCNn1cy/Fox-Sports-3-Argentina-2023-svg-14-14-35.png", FOX SPORT 3 disfruta 
+
+http://disfruta.net:80/rogerioreyna/Nja87vPmA/1096
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/GtYSxcyy/1200px-FS2-logo-2015-svg-png-12-13-13-13-35.png", FOX sport 2 us hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34650
@@ -346,29 +356,29 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/157488
 
 http://ragnarokserve.com:847/LFamIPTV2/4XFgjxUTkgZt/2909
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/4yGHdgp5/Fox-Sports-2-Argentina-2023-svg-13-13-14-35.png",FOX SPORT 2 SA 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/4yGHdgp5/Fox-Sports-2-Argentina-2023-svg-13-13-14-35.png",FOX SPORT 2 SA disfruta 
 
-http://50.7.66.234:8080/Paul19/Paul19/1090740
+http://disfruta.net:80/rogerioreyna/Nja87vPmA/1095
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/4yGHdgp5/Fox-Sports-2-Argentina-2023-svg-13-13-14-35.png",FOX SPORT 2 tvstarlife
 
 http://tvstarlife.live:25461/geovany/geovany/1331
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/vBCNn1cy/Fox_Sports_3_Argentina_2023.svg_(14)_(14)_(35).png",FOX SPORT 3 SA 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/vBCNn1cy/Fox_Sports_3_Argentina_2023.svg_(14)_(14)_(35).png",FOX SPORT 3 SA disfruta 
 
-http://50.7.66.234:8080/Paul19/Paul19/33475
+http://disfruta.net:80/rogerioreyna/Nja87vPmA/1096
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/GtYSxcyy/1200px-FS2_logo_2015.svg.png_(12)_(13)_(13)_(13)_(35).png", FOX SPORT 2 USA hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/312667
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/MHFG2JZt/images-4-35.png", TNT SPORT 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/MHFG2JZt/images-4-35.png", TNT SPORT disfruta 
 
-http://50.7.66.234:8080/Paul19/Paul19/1155814
+http://disfruta.net:80/rogerioreyna/Nja87vPmA/2795
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gkBpYPFb/images-4-36-36.png", TNT SPORT 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/gkBpYPFb/images-4-36-36.png", TNT SPORT disfruta 
 
-http://50.7.66.234:8080/Paul19/Paul19/1156014
+http://disfruta.net:80/rogerioreyna/Nja87vPmA/1414
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gkBpYPFb/images-4-36-36.png", TNT SPORT 2 CHILE 50.7.66
 
@@ -612,17 +622,17 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34693
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34705
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/NGn4gxjR/images-18.png", CBS SPORT NETWORK bgtv
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/NGn4gxjR/images-18.png", CBS SPORT NETWORK disfruta 
 
-http://bgtv.site/403/tv30.php?c=NDctNzA4Mg==&token=pioioiylklkhkuacv&f=.m3u8
+http://disfruta.net:80/rogerioreyna/Nja87vPmA/698
 
-#EXTINF: -1,CLARO SPORT ipmi
+#EXTINF: -1,CLARO SPORT disfruta 
 
-http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/135965.ts
+http://disfruta.net:80/rogerioreyna/Nja87vPmA/1407
 
-#EXTINF: -1,CABLE ONDA SPORT ipmi
+#EXTINF: -1,CABLE ONDA SPORT disfruta 
 
-http://ipmi-dedicatedserverxtream.com:8080/WTtra3FHVZ/Ck8CsDfeXD/136611.ts
+http://disfruta.net:80/rogerioreyna/Nja87vPmA/1407
 
 #EXTINF: -1,TVC DEPORTES gamsgo
 
