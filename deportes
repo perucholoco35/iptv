@@ -375,30 +375,6 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/2314
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/2367
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/d1SjZ60t/images-5-42.png", NFL REDZONE
-
-http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/2369
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/3N4CXGyj/images-21-42.png", Nhl network usa
-
-http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/2348
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gjd7HNGv/images-14-46.png", HARD KNOCKS peleas
-
-http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/282286
-
-#EXTINF: -1,Fight network canada
-
-http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/9235
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhpP6jT/images-33.png", RAÍ SPORT italia
-
-http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/1042
-
-#EXTINF: -1,SKY SPORT motogp
-
-http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/9880
-
 #EXTINF: -1,Super tennis
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/285535
@@ -410,16 +386,9 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/79220
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/LX0Ctpgq/images-32.png", DAZN 2 italia
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/39497
-
-#EXTINF: -1,MOTOR VISION TV pluto
-
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/ZKqLVk28/images-9.png", MATCH! 2
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/55800
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/c46QfRtT/images-9-4.png", MATCH! 3
-http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/55802
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/XJ8wkxg1/match-premium.png", MATCH! PREMIUM
-http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/60499
 #EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSOGlENXZsMv0iYhK-1SaokObot7e0su6O6Q&usqp=CAU", ANIMAL PLANET
 https://m3u-editor.com/serve/99c44300-ca0a-11ee-b1fe-b98976305a99/1089239010
 #EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQESOgQquCJbOlNoe4qNiFCjWf6QFqDSZ54Ow&usqp=CAU", DISCOVERY CHANNEL
