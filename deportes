@@ -10,8 +10,8 @@ http://tvstarlife.live:25461/geovany/geovany/213048
 http://tvstarlife.live:25461/geovany/geovany/1302
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/QxH8tsgJ/images-2-27.png",DIRECTV+ CO hplay
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/123885
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/8cd0k7Kz/images-5-28.png", DIRECTV 2 us monkey
-http://elmonkey.us:25461/santana/1234/117090
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8cd0k7Kz/images-5-28.png", DIRECTV 2 
+http://41540568432782646.0222ofd.xyz:80/play/Salvichiri/Chiri12345678/782646.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/59P9bjzt/images-2-28.png", DIRECTV + hplay
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/123871
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Njd7sspk/images-4-10-24.png", GOL PERU tvstarlife
@@ -129,17 +129,17 @@ http://634399784308787516.ofd0219.xyz:80/play/Salvichiri/Chiri12345678/787516.ts
 
 http://806562284646766754.ofd0216.xyz:80/play/Salvichiri/Chiri12345678/766754.ts
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/wTJFGfmf/images-3-7.png", DAZN 1 hplay
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/wTJFGfmf/images-3-7.png", DAZN 1 esp
 
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/303780
+http://41540568432373766.0222ofd.xyz:80/play/Salvichiri/Chiri12345678/373766.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/wTJFGfmf/images-3-7.png", DAZN 2 hplay
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/303782
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/fT18tYQd/images-20-13.png", DAZN F1 50.7.66
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/fT18tYQd/images-20-13.png", DAZN F1 esp
 
-http://50.7.66.234:8080/Paul19/Paul19/1143419
+http://41540568432165418.0222ofd.xyz:80/play/Salvichiri/Chiri12345678/165418.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/GpBgkHpq/images-5-7-36.png", ✓TUDN fortv
 
@@ -157,9 +157,9 @@ http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37926
 
 http://806562284646786298.ofd0216.xyz:80/play/Salvichiri/Chiri12345678/786298.ts
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/Y0rYKkGs/images-25-37.png", FIGHT NETWORK cloudfront
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Y0rYKkGs/images-25-37.png", SK fight
 
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+http://41540568432788056.0222ofd.xyz:80/play/Salvichiri/Chiri12345678/788056.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hv1LMdNM/images-22-13.png", DIRECTV FIGHT 50.7.66
 
