@@ -8,8 +8,8 @@ http://tvstarlife.live:25461/geovany/geovany/213048
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/HkhhBDF3/images-5-25.png", DIRECTV 2 FHD tvstarlife 
 http://tvstarlife.live:25461/geovany/geovany/1302
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/QxH8tsgJ/images-2-27.png",DIRECTV+ CO hplay
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/123885
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QxH8tsgJ/images-2-27.png",Directv 1
+http://41540568432782648.0222ofd.xyz:80/play/Salvichiri/Chiri12345678/782648.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/8cd0k7Kz/images-5-28.png", DIRECTV 2 
 http://41540568432782646.0222ofd.xyz:80/play/Salvichiri/Chiri12345678/782646.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/59P9bjzt/images-2-28.png", DIRECTV + hplay
@@ -101,10 +101,6 @@ http://41540568432766841.0222ofd.xyz:80/play/Salvichiri/Chiri12345678/766841.ts
 
 http://634399784308785114.ofd0219.xyz:80/play/Salvichiri/Chiri12345678/785114.ts
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/GtYSxcyy/1200px-FS2-logo-2015-svg-png-12-13-13-13-35.png", ✓FOX sport 2 us hplay
-
-http://fortv.cc:8080/Thomas21/21Thomas/1847
-
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/GtYSxcyy/1200px-FS2-logo-2015-svg-png-12-13-13-13-35.png", *FOX SPORT 2 USA 
 
 http://634399784308785115.ofd0219.xyz:80/play/Salvichiri/Chiri12345678/785115.ts
@@ -112,10 +108,6 @@ http://634399784308785115.ofd0219.xyz:80/play/Salvichiri/Chiri12345678/785115.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/4yGHdgp5/Fox-Sports-2-Argentina-2023-svg-13-13-14-35.png",FOX SPORT 2 SA disfruta 
 
 http://disfruta.net:80/rogerioreyna/Nja87vPmA/1095
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/GtYSxcyy/1200px-FS2_logo_2015.svg.png_(12)_(13)_(13)_(13)_(35).png", FOX SPORT 2 USA hplay
-
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/312667
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/MHFG2JZt/images-4-35.png", ✓TNT SPORT disfruta 
 
@@ -149,10 +141,6 @@ http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
 
 http://fortv.cc:8080/Thomas21/21Thomas/11885
 
-#EXTINF: -1,VTV p.ultra
-
-http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37926
-
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/K88H89hX/UFC-Logo-PNG-Image-HD-36.png", ✓UFC usa hplay
 
 http://806562284646786298.ofd0216.xyz:80/play/Salvichiri/Chiri12345678/786298.ts
@@ -173,9 +161,9 @@ http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/31645
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/6pCYGhLt/a288.png", ZIGGO RACING gamsgo
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/6pCYGhLt/a288.png", ZIGGO RACING
 
-http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/4515
+http://41540568432781500.0222ofd.xyz:80/play/Salvichiri/Chiri12345678/781500.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Sxwj8BX0/images-7-6-36-37.png", ✓SKY SPORT F1 hplay
 
@@ -216,18 +204,6 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/8785
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/PxvckKvW/images-10-14-36.png", *Eleven 1
 
 http://634399784308781512.ofd0219.xyz:80/play/Salvichiri/Chiri12345678/781512.ts
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/L6K5c06C/Fox-Sports-3-Argentina-2023-svg-14-14.png", FOX sport 3 hplay
-
-http://hplay.xyz:80/rtrboofc/pi519pvU9R/34646
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/Wpy4Z1Wr/1200px-FS2-logo-2015-svg-png-12.png", ✓FOX sport 1 us hplay
-
-http://fortv.cc:8080/Thomas21/21Thomas/46792
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/Wpy4Z1Wr/1200px-FS2-logo-2015-svg-png-12.png", ✓FOX SPORT 2 US ragnarok
-
-http://fortv.cc:8080/Thomas21/21Thomas/1847
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/SsNx6kGK/images-8-6-14-36.png", ECDF EC hplay
 
