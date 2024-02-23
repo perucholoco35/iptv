@@ -170,6 +170,10 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/303782
 
 http://41540568432165418.0222ofd.xyz:80/play/Salvichiri/Chiri12345678/165418.ts
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/GpBgkHpq/images-5-7-36.png", ✓TUDN
+
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/185148
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/GpBgkHpq/images-5-7-36.png", ✓TUDN fortv
 
 http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
@@ -266,6 +270,10 @@ http://634399784308785053.ofd0219.xyz:80/play/Salvichiri/Chiri12345678/785053.ts
 
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/2275
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DwFHP9YP/images-22-14.png", TENNIS
+
+http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/brSTT0by/tv-station-ziggo-golf-287.png", *ZIGGO GOLF 
 
 http://634399784308781497.ofd0219.xyz:80/play/Salvichiri/Chiri12345678/781497.ts
@@ -354,12 +362,12 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", UNICABLE
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
-#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", 
-
-#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
-
-#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo=" 
-
+#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", TELEMAX
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", JJ
+https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
+#EXTINF: -1 group-title="ENTRETENIMIENTO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclnAJTK9Eybj_RisrlocnPNg_aUnZC-LrNA&usqp=CAU", COOKING CHANNEL 
+http://livex.pop-app.live/s4n/poplive/ch521/playlist.m3u8
 #EXTINF: -1, HBO 
 https://m3u-editor.com/serve/99c44300-ca0a-11ee-b1fe-b98976305a99/1089239085
 #EXTINF: -1, HBO FAMILY
